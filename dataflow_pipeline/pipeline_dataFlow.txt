@@ -1,0 +1,13 @@
+
+python /home/nad_arellano/env/dataflow_servicios.py \
+    --runner DataflowRunner \
+    --project thematic-mapper-423323-e8 \
+    --region us-central1 \
+    --staging_location gs://thematic-mapper-423323-e8-real-time/temp \
+    --temp_location gs://thematic-mapper-423323-e8-real-time/temp \
+    --job_name tabla-210-prueba1 \
+    --input_path gs://thematic-mapper-423323-e8-real-time/message_210.json \
+    --output_table thematic-mapper-423323-e8:lake_real_time.tabla_210
+
+
+
