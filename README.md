@@ -25,4 +25,4 @@ Este proyecto implementa una arquitectura de Big Data en Google Cloud Platform (
 ## Documentos
 - [PDF Resumen del Proyecto](docs/resumen_proyecto_bigdata.pdf)
 - [PDF Detallado del Proyecto](https://github.com/Nadarellano/bigdata-transporte-santiago/blob/main/docs/Informe_Completo_Proyecto_Transporte_BigData_GCP.pdf)
-- [Ver presentación en LinkedIn](https://www.linkedin.com/in/nadia-aracelly-arellano-gonz%C3%A1lez-426aa721)
+- [Ver presentación en LinkedIn](https://www.linkedin.com/posts/activity-7325630377660706816-_4m3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAScY54Bz1v1B1JB3pZedXQTIUvQ5jjX7XU)
